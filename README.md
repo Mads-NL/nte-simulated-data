@@ -1,5 +1,7 @@
 # NTE Simulated Data
 
+![IR Slitwidth 1.0 Example](ir_slitwidth1.0_0.005sec_grb25_0_noise.png)
+
 Hello there!
 
 Welcome to this repository. This repository contains the code and data for the data simulation for the NTE.
